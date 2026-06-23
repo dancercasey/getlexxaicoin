@@ -6,7 +6,7 @@ display_decimals = 0
 [METADATA]
 token_name = "LEXX Token"
 token_symbol = "LEXX"
-total_supply = "14000000000"
+total_supply = "7000000000"
 issuer = "rU3jbyjEdzwSFQg9ZmzkXkGiNyqZNBkvlv"
 distributor = "RUVo06Gk2ySFEQIAkqkT2ho8w5m2wAJhT"
 domain = "getlexxaicoin.com"
