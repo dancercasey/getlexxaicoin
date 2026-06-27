@@ -1,12 +1,12 @@
 [[CURRENCIES]]
 code = "LEXX"
-issuer = "rU3jbyjEdzwSFQg9ZmzkXkGiNyqZNBkvlv"
+issuer = "rKGBPFzaFwB3LXiqDZjR3B5BjPVWDw4WqA"
 display_decimals = 0
 
 [METADATA]
-token_name = "LEXX Token"
+token_name = "LEXX"
 token_symbol = "LEXX"
-total_supply = "7000000000"
-issuer = "rU3jbyjEdzwSFQg9ZmzkXkGiNyqZNBkvlv"
-distributor = "RUVo06Gk2ySFEQIAkqkT2ho8w5m2wAJhT"
+total_supply = "14000000000"
+issuer = "rKGBPFzaFwB3LXiqDZjR3B5BjPVWDw4WqA"
 domain = "getlexxaicoin.com"
+
