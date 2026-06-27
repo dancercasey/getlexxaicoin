@@ -1,9 +1,9 @@
 {
-  "token_name": "LEXX Token",
-  "token_symbol": "LEXX",
-  "total_supply": "7000000000",
-  "issuer": "rU3jbyjEdzwSFQg9ZmzkXkGiNyqZNBkvlv",
-  "distributor": "RUVo06Gk2ySFEQIAkqkT2ho8w5m2wAJhT",
-  "decimals": 0,
+  "name": "LEXX",
+  "symbol": "LEXX",
+  "issuer": "rKGBPFzaFwB3LXiqDZjR3B5BjPVWDw4WqA",
+  "total_supply": "14000000000",
+  "description": "LEXX token on the XRP Ledger",
   "domain": "getlexxaicoin.com"
 }
+
