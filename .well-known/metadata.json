@@ -4,6 +4,7 @@
   "issuer": "rKGBPFzaFwB3LXiqDZjR3B5BjPVWDw4WqA",
   "total_supply": "14000000000",
   "description": "LEXX token on the XRP Ledger",
+  "image": "https://getlexxaicoin.com/.well-known/logo.png",
   "domain": "getlexxaicoin.com"
 }
 
