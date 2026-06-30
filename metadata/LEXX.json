@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "type": "Token",
+  "data": {
+    "name": "LEXX",
+    "symbol": "LEXX",
+    "description": "LEXX is a cross-chain asset bridging Stellar and XRPL for liquidity expansion.",
+    "issuer": "rKGBPFzaFwB3LXiqDZjR3B5BjPVWDw4WqA",
+    "logo": "https://dancercasey.github.io/getlexxaicoin/logo.png",
+    "web": "https://getlexxaicoin.com",
+    "social": {
+      "facebook": "https://www.facebook.com/lexxaicoin"
+    }
+  }
+}
