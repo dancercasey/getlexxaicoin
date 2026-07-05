@@ -1,9 +1,15 @@
+[ISSUER]
+address = "rKGBPFzaFwB3LXiqDZjR3B5BjPVWDw4WqA"
+name = "LEXX Token"
+desc = "LEXX AI Coin on XRPL"
+
 [METADATA]
 token = "LEXX"
 icon = "https://cdn.jsdelivr.net/gh/dancercasey/getlexxaicoin/logo.png"
-description = "LEXX is a cross-chain asset bridging Stellar and XRPL."
+website = "https://getlexxaicoin.com"
+description = "LEXX AI Coin bridging XRPL and Stellar ecosystems."
 
 [[CURRENCIES]]
 code = "LEXX"
 issuer = "rKGBPFzaFwB3LXiqDZjR3B5BjPVWDw4WqA"
-display_decimals = 0
+icon = "https://cdn.jsdelivr.net/gh/dancercasey/getlexxaicoin/logo.png"
