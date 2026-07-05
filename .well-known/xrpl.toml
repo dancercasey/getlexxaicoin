@@ -1,6 +1,6 @@
 [METADATA]
 token = "LEXX"
-icon = "https://dancercasey.github.io/getlexxaicoin/logo.png"
+icon = "https://cdn.jsdelivr.net/gh/dancercasey/getlexxaicoin/logo.png"
 description = "LEXX is a cross-chain asset bridging Stellar and XRPL."
 
 [[CURRENCIES]]
